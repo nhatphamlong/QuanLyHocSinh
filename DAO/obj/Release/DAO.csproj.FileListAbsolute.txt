@@ -1,0 +1,15 @@
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\CoSoDuLieu.mdf
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\CoSoDuLieu_log.ldf
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\DA.exe.config
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\DA.exe
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\DA.pdb
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\DT.exe
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\DT.pdb
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\bin\Release\DT.exe.config
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\obj\Release\DA.Properties.Resources.resources
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\obj\Release\DAO.csproj.GenerateResource.cache
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\obj\Release\DA.exe
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\DAO\obj\Release\DA.pdb

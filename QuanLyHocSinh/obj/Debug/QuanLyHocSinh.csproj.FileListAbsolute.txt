@@ -1,0 +1,15 @@
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csprojAssemblyReference.cache
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.GenerateResource.cache
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form_Dashboard.resources
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form_TiepNhanHS.resources
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form_BangDiemMonHoc.resources
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form_BaoCaoTongKet.resources
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form_LapDSLop.resources
+C:\Users\Quan's Macbook Pro\source\repos\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form_ThietLap.resources
